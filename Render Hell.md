@@ -10,7 +10,16 @@ CPU ---command---> GPU
 GPU:  Render State ---> pixels on screen 
 
 ## Rendering
-Rendering is basically doing an immense number of small tasks such as calculate something for thousands of vertices or painting millions of pixels on a screen.       >=  30fps    
+Rendering is basically doing an immense number of small tasks such as calculate something for thousands of vertices or painting millions of pixels on a screen.                
+>=  30fps    
+
+```
+Modern CPUs have 4-8 cores that can do each 4-8 float operations at once    
+GPUs can have several thousands operation Units    
+Just comparing GPU core and CPU core count is not fair due to the different responsibilities and organization     
+GPU vendors tend to use “core” for the smallest execution unit, while CPU vendors for the high-level unit  
+```
+
 
 ## ref
 https://blog.csdn.net/hexiaolong2009/article/details/104084445   

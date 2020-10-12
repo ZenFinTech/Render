@@ -2,7 +2,7 @@
 HDD(CPU)->RAM(CPU)->VRAM(GPU)  
 
 ## Set the Render State
-
+vertex and pixel shader, texture, material, lighting, transparency...
 ## Draw Call
 CPU ---command---> GPU
 

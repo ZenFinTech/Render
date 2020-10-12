@@ -7,6 +7,10 @@ vertex and pixel shader, texture, material, lighting, transparency...
 CPU ---command---> GPU
 
 ## Pipeline
+GPU:  Render State ---> pixels on screen 
+
+## Rendering
+Rendering is basically doing an immense number of small tasks such as calculate something for thousands of vertices or painting millions of pixels on a screen.       >=  30fps    
 
 ## ref
 https://blog.csdn.net/hexiaolong2009/article/details/104084445   

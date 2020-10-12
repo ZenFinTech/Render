@@ -1,6 +1,7 @@
 ## Copy the data into system memory for fast access
-HDD(CPU)->RAM(CPU)->VRAM(GPU)
+HDD(CPU)->RAM(CPU)->VRAM(GPU)  
 
+## Set the Render State
 
 
 

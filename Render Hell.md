@@ -32,8 +32,7 @@ moving pixel data, pixel blending(像素混合), coverage information for anti a
 
 
 ## Rendering
-Rendering is basically doing an immense number of small tasks such as calculate something for thousands of vertices or painting millions of pixels on a screen.                
->=  30fps    
+Rendering is basically doing an immense number of small tasks such as calculate something for thousands of vertices or painting millions of pixels on a screen.      at least 30fps    
 
 ```
 Modern CPUs have 4-8 cores that can do each 4-8 float operations at once    

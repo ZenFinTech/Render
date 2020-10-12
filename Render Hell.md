@@ -28,6 +28,8 @@ GPU:  Render State ---> pixels on screen
 ### Rasterizing
 ### Pixel Shader
 ### Raster Output
+moving pixel data, pixel blending(像素混合), coverage information for anti aliasing(抗锯齿) , “atomic operations”.
+
 
 ## Rendering
 Rendering is basically doing an immense number of small tasks such as calculate something for thousands of vertices or painting millions of pixels on a screen.                

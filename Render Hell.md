@@ -19,7 +19,8 @@ GPUs can have several thousands operation Units
 Just comparing GPU core and CPU core count is not fair due to the different responsibilities and organization     
 GPU vendors tend to use “core” for the smallest execution unit, while CPU vendors for the high-level unit  
 ```
-
+## command buffer (FIFO)
+CPU and GPU can work independent from each other   
 
 ## ref
 https://blog.csdn.net/hexiaolong2009/article/details/104084445   

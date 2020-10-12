@@ -12,6 +12,22 @@ GPU:  Render State ---> pixels on screen
 1. Not everything is done by the “tiny” GPU cores    
 2. There can be several parallel running pipelines    
 ```
+### Applicatoin Stage
+### Driver Stage
+### Read Commands
+### Data Fetch
+### Vertex Fetch
+### Shader Execution
+### Patch Assembly
+### Hull Shader
+### Tessellation
+### Domain Shader
+### Geometry Shader
+### Viewport Transform & Clipping
+### Triangles Journey  
+### Rasterizing
+### Pixel Shader
+### Raster Output
 
 ## Rendering
 Rendering is basically doing an immense number of small tasks such as calculate something for thousands of vertices or painting millions of pixels on a screen.                
